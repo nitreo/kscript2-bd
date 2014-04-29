@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "db": "kagdb",
+  "user": "",
+  "password": "",
+  "antispamCooldown": "5",
+  "resetCooldown": "3"
+}
