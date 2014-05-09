@@ -3,7 +3,7 @@ ks_2.iml
 db/
 logs/*.log
 config.json
-KScript2-Official.iml
+KScript2-BlackDeath/
 Gemfile
 Gemfile.lock
 _site/

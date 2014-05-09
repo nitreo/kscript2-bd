@@ -86,7 +86,7 @@ void onCommand( CRules@ this, u8 cmd, CBitStream @params ){
 }
 
 void onPlayerChangedTeam( CRules@ this, CPlayer@ player, u8 oldteam, u8 newteam ){
-  print(player.getUsername()+" changed from "+oldteam+" to "+newteam);
+  print(player.getUsername()+" changed team from "+oldteam+" to "+newteam);
 }
 
 void CheckInjection(){
